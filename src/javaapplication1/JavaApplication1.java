@@ -16,6 +16,11 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String a = "a";
+        String b = "b";
+        if (a.equals(b)) {
+            System.out.println("its true");
+        }
     }
     
 }
